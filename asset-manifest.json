@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.193b53e5.chunk.css",
-    "main.js": "/static/js/main.424acf4b.chunk.js",
-    "main.js.map": "/static/js/main.424acf4b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f15af103.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f15af103.js.map",
-    "static/css/2.30c2d978.chunk.css": "/static/css/2.30c2d978.chunk.css",
-    "static/js/2.1554e100.chunk.js": "/static/js/2.1554e100.chunk.js",
-    "static/js/2.1554e100.chunk.js.map": "/static/js/2.1554e100.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0b6273b928b71681312fa24497d6a5fa.js": "/precache-manifest.0b6273b928b71681312fa24497d6a5fa.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.30c2d978.chunk.css.map": "/static/css/2.30c2d978.chunk.css.map",
-    "static/css/main.193b53e5.chunk.css.map": "/static/css/main.193b53e5.chunk.css.map",
-    "static/js/2.1554e100.chunk.js.LICENSE.txt": "/static/js/2.1554e100.chunk.js.LICENSE.txt",
-    "static/media/Aclonica-Regular.ttf": "/static/media/Aclonica-Regular.5314dab9.ttf",
-    "static/media/Alatsi-Regular.ttf": "/static/media/Alatsi-Regular.22c595c0.ttf",
-    "static/media/Switch1.png": "/static/media/Switch1.c782c6d5.png",
-    "static/media/bg.png": "/static/media/bg.662301d7.png"
+    "main.css": "./static/css/main.6c9a251d.chunk.css",
+    "main.js": "./static/js/main.4ccb4237.chunk.js",
+    "main.js.map": "./static/js/main.4ccb4237.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.336facf8.js",
+    "runtime-main.js.map": "./static/js/runtime-main.336facf8.js.map",
+    "static/css/2.30c2d978.chunk.css": "./static/css/2.30c2d978.chunk.css",
+    "static/js/2.1554e100.chunk.js": "./static/js/2.1554e100.chunk.js",
+    "static/js/2.1554e100.chunk.js.map": "./static/js/2.1554e100.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.09dfa92d003c68e79d50f602cd854eb9.js": "./precache-manifest.09dfa92d003c68e79d50f602cd854eb9.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.30c2d978.chunk.css.map": "./static/css/2.30c2d978.chunk.css.map",
+    "static/css/main.6c9a251d.chunk.css.map": "./static/css/main.6c9a251d.chunk.css.map",
+    "static/js/2.1554e100.chunk.js.LICENSE.txt": "./static/js/2.1554e100.chunk.js.LICENSE.txt",
+    "static/media/Aclonica-Regular.ttf": "./static/media/Aclonica-Regular.5314dab9.ttf",
+    "static/media/Alatsi-Regular.ttf": "./static/media/Alatsi-Regular.22c595c0.ttf",
+    "static/media/Switch1.png": "./static/media/Switch1.c782c6d5.png",
+    "static/media/bg.png": "./static/media/bg.662301d7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f15af103.js",
+    "static/js/runtime-main.336facf8.js",
     "static/css/2.30c2d978.chunk.css",
     "static/js/2.1554e100.chunk.js",
-    "static/css/main.193b53e5.chunk.css",
-    "static/js/main.424acf4b.chunk.js"
+    "static/css/main.6c9a251d.chunk.css",
+    "static/js/main.4ccb4237.chunk.js"
   ]
 }
