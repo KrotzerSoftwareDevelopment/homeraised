@@ -1,29 +1,33 @@
 {
   "files": {
-    "main.css": "./static/css/main.6c9a251d.chunk.css",
-    "main.js": "./static/js/main.4ccb4237.chunk.js",
-    "main.js.map": "./static/js/main.4ccb4237.chunk.js.map",
+    "main.css": "./static/css/main.d987ae73.chunk.css",
+    "main.js": "./static/js/main.c09dc1fe.chunk.js",
+    "main.js.map": "./static/js/main.c09dc1fe.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.336facf8.js",
     "runtime-main.js.map": "./static/js/runtime-main.336facf8.js.map",
     "static/css/2.30c2d978.chunk.css": "./static/css/2.30c2d978.chunk.css",
-    "static/js/2.1554e100.chunk.js": "./static/js/2.1554e100.chunk.js",
-    "static/js/2.1554e100.chunk.js.map": "./static/js/2.1554e100.chunk.js.map",
+    "static/js/2.aeeb7ba5.chunk.js": "./static/js/2.aeeb7ba5.chunk.js",
+    "static/js/2.aeeb7ba5.chunk.js.map": "./static/js/2.aeeb7ba5.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.09dfa92d003c68e79d50f602cd854eb9.js": "./precache-manifest.09dfa92d003c68e79d50f602cd854eb9.js",
+    "precache-manifest.4a477ade6ff1cea95e59f727b80a11cf.js": "./precache-manifest.4a477ade6ff1cea95e59f727b80a11cf.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.30c2d978.chunk.css.map": "./static/css/2.30c2d978.chunk.css.map",
-    "static/css/main.6c9a251d.chunk.css.map": "./static/css/main.6c9a251d.chunk.css.map",
-    "static/js/2.1554e100.chunk.js.LICENSE.txt": "./static/js/2.1554e100.chunk.js.LICENSE.txt",
+    "static/css/main.d987ae73.chunk.css.map": "./static/css/main.d987ae73.chunk.css.map",
+    "static/js/2.aeeb7ba5.chunk.js.LICENSE.txt": "./static/js/2.aeeb7ba5.chunk.js.LICENSE.txt",
     "static/media/Aclonica-Regular.ttf": "./static/media/Aclonica-Regular.5314dab9.ttf",
     "static/media/Alatsi-Regular.ttf": "./static/media/Alatsi-Regular.22c595c0.ttf",
+    "static/media/OpenFarm.png": "./static/media/OpenFarm.f4b194fa.png",
     "static/media/Switch1.png": "./static/media/Switch1.c782c6d5.png",
-    "static/media/bg.png": "./static/media/bg.662301d7.png"
+    "static/media/bearworkingsoftware.png": "./static/media/bearworkingsoftware.4666f810.png",
+    "static/media/bg.png": "./static/media/bg.662301d7.png",
+    "static/media/daphblanket.png": "./static/media/daphblanket.718ce835.png",
+    "static/media/utah1.png": "./static/media/utah1.517df9ba.png"
   },
   "entrypoints": [
     "static/js/runtime-main.336facf8.js",
     "static/css/2.30c2d978.chunk.css",
-    "static/js/2.1554e100.chunk.js",
-    "static/css/main.6c9a251d.chunk.css",
-    "static/js/main.4ccb4237.chunk.js"
+    "static/js/2.aeeb7ba5.chunk.js",
+    "static/css/main.d987ae73.chunk.css",
+    "static/js/main.c09dc1fe.chunk.js"
   ]
 }
